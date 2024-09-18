@@ -10,7 +10,7 @@ windows版本154.205.9.27/aleo/aleo-f2pool.exe
 windows使用需要开代理翻墙、
 建议全用ubantu系统香港服务器  机器少随便买个便宜几十的就行 机器多则买配置高的 我购买服务器的地址为https://www.diyvm.com/page.aspx?c=referral&u=90876
 windows使用需要开代理翻墙、
-备用软件下载地址linux版本：https://wwoz.lanzouk.com/iPPXG2a7qahi https://github.com/zerotree-top/aleo-f2pool/blob/main/aleo-f2pool.zip
+备用软件下载地址linux版本：https://wwoz.lanzouk.com/iPPXG2a7qahi 或(https://github.com/zerotree-top/aleo-f2pool/blob/main/aleo-f2pool1.1.zip)
 windows版本：https://wwoz.lanzouk.com/isw522a7qluh 
 鱼池miner锄头使用11.49后缀的版本我上传到仓库（https://gitee.com/aleo-f2pool/proxy/raw/master/aleominer-2.11.49.tar.gz）
 
